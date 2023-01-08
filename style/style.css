@@ -140,4 +140,118 @@ text-align: center;
 
 color: #151414;
 }
+.time{
+    position: absolute;
+width: 1000px;
+height: 300px;
+left: 230px;
+top: 2216.3px;
 
+background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+border-radius: 8px;
+background-image: url('../images/gradient2.png'), url('../images/watch.png');
+
+
+left: 294px;
+top: 2275.3px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 60px;
+
+
+color: #fff;
+}
+.time .mindset{
+    margin-left: 40px;
+}
+.time .watch{
+    position: absolute;
+width: 200px;
+height: 70px;
+border: none;
+border-radius: 5px;
+
+
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+margin-left: 40px;
+margin-top: 20px;
+
+color: #F15B22;
+}
+.background-footer{
+    position: absolute;
+width: 100%;
+height: 300px;
+left: 0;
+top: 2646.3px;
+
+
+
+background: #151414;
+
+}
+.background-footer .future{
+    position: absolute;
+width: 485px;
+height: 317px;
+left: 290px;
+color: #fff;
+margin-top: 30px;
+
+}
+.background-footer .foot{
+    display: flex;
+    list-style: none;
+    margin-top: 190px;
+    margin-left: 250px;
+    
+    position: absolute;
+    
+     
+}
+.background-footer .subscribe{
+    position: absolute;
+width: 325px;
+height: 204px;
+left: 1046px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 29px;
+
+color: #FFFFFF;
+margin-top: 30px;
+}
+.background-footer .btn-sub{
+    position: absolute;
+width: 150px;
+height: 60px;
+left: 1046px;
+margin-top: 130px;
+
+
+background: #FFFFFF;
+border-radius: 8px;
+
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+
+
+color: #F15B22;
+border: none;
+
+}
