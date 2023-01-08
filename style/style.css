@@ -126,6 +126,23 @@
 nav li{
     margin-left: 100px;
 }
+nav li .comment{
+    position: absolute;
+
+left: 180px;
+
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 29px;
+text-align: center;
+
+/* Dark 03 */
+
+color: #737272;
+}
 .web{
     
 
